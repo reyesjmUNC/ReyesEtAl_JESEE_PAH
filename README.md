@@ -7,4 +7,4 @@ Steps needed to run the analysis:
 3) run /20_mfiles_PAH/analysis.m
 
 Note:
-The function /20_mfiles_PAH/exhaustive....m was originally run using a parallel computing shell script, so fully running this function may be computationally timely.
+The function /20_mfiles_PAH/exhaustiveSoftDevelopment.m was originally run using a parallel computing shell script, so fully running this function without parallel computing may be computationally timely.
